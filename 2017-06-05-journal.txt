@@ -1,0 +1,2 @@
+## Day1
+We learned about Semantic HTML5. Instead of using DIV we can use special tags like Section, Footer etc. We were introduced to Git. 
